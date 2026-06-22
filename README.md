@@ -1,52 +1,51 @@
-# 👋 Hi, I'm Augusto Maciel
+🔐 Offensive Security Engineer | Bug Bounty Hunter | Security Tooling Developer
 
-🔐 Offensive Security | Bug Bounty Hunter | QA Automation Engineer  
+I focus on web application and API security, combining manual testing with custom automation to find high-impact vulnerabilities. I don't just use security tools — I build them.
 
-I focus on **web application and API security**, combining **manual testing with custom automation** to identify high-impact vulnerabilities.
+⚔️ What I Do
 
----
+    🔍 Attack Surface Mapping & Reconnaissance
+    🧠 Business Logic Vulnerability Testing
+    💥 Exploitation of OWASP Top 10 & API Security Top 10 (IDOR, injection, broken access control, auth flaws)
+    🤖 Security Automation (Python, Bash, Selenium/CDP)
 
-## ⚔️ What I Do
+🛠️ Featured Work
 
-- 🔍 Attack Surface Mapping & Reconnaissance  
-- 🧠 Business Logic Vulnerability Testing  
-- 💥 Exploitation of OWASP Top 10 & API Top 10  
-- 🤖 Security Automation (Python, Bash, Selenium)  
+🕷️ Reconner — Browser-Driven Web Reconnaissance Platform
+Drives a real browser via Chrome DevTools Protocol to crawl targets like a human user:
 
----
+    Renders JavaScript and captures the real XHR/fetch traffic SPAs make
+    Passive + active API endpoint discovery and subdomain enumeration (crt.sh)
+    Authenticated scans with credential injection (Bearer / Basic / API key / Cookie / Form)
+    Built-in Repeater + ffuf-style Fuzzer, interactive site-structure graph, and optional local AI analysis (Ollama)
 
-## 🛠️ Featured Work
+🔐 bbHelper — Bug Bounty Recon & Injection Framework
+Modular, menu-driven CLI tool for:
 
-### 🔐 bbHelper — Bug Bounty Framework
-Modular CLI tool for:
-- Recon (katana, waybackurls)
-- Automated exploitation (sqlmap, dalfox, commix)
-- Structured and repeatable workflows
+    Recon (katana, waybackurls)
+    Automated exploitation (sqlmap, dalfox, commix, tplmap)
+    Structured, repeatable workflows with normalized output
 
-### 🧃 Selenium Security Framework
-Automation framework combining:
-- QA testing (POM, Pytest)
-- Pentesting (SQLi, XSS, IDOR, misconfigurations)
+🧃 Selenium Security Framework
+Dual-purpose automation framework combining:
 
----
+    QA testing (Page Object Model, Pytest)
+    Pentesting (SQLi, XSS, IDOR, security misconfigurations) with HTML reports + screenshot evidence
 
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
-- **Languages:** Python, Bash, C  
-- **Security:** Burp Suite, Nmap, sqlmap, dalfox  
-- **Recon:** amass, httpx, ffuf, paramspider  
-- **QA Automation:** Selenium, Cypress  
+    Languages: Python, Bash, C
+    Security: Burp Suite, Nmap, sqlmap, dalfox
+    Recon: amass, httpx, ffuf, paramspider, whatweb, wafw00f
+    QA Automation: Selenium, Cypress, Pytest
 
----
+🎯 Current Focus
 
-## 🎯 Current Focus
+    Scaling bug bounty workflows through automation
+    Advanced recon & attack surface mapping
+    Real-world exploitation of business logic flaws
 
-- Scaling bug bounty workflows through automation  
-- Advanced recon & attack surface mapping  
-- Real-world exploitation of business logic flaws  
+📫 Contact
 
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/augusto-lipinski
+    LinkedIn: https://linkedin.com/in/augusto-lipinski
+    Email: alfmmaciel@gmail.com
